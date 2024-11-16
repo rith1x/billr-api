@@ -1,0 +1,256 @@
+{
+  "JMF241116023": {
+    "billId": "JMF241116023",
+    "date": "2024-11-16",
+    "name": "Mr.Kiruthik Kumar",
+    "items": 1,
+    "mode": "Card",
+    "notes": "",
+    "bill": 671,
+    "due": 655,
+    "status": "paid",
+    "generated": "16 Nov 2024 22:32",
+    "description": [
+      {
+        "item": "5",
+        "quantity": "4",
+        "price": "4",
+        "total": "16"
+      }
+    ]
+  },
+  "JMF241116024": {
+    "billId": "JMF241116024",
+    "date": "2024-10-31",
+    "name": "Mrs.Mrunal Thakur",
+    "items": 1,
+    "mode": "Cash",
+    "notes": "",
+    "bill": 355,
+    "due": 343,
+    "status": "paid",
+    "generated": "16 Nov 2024 22:34",
+    "description": [
+      {
+        "item": "vdf",
+        "quantity": "4",
+        "price": "3",
+        "total": "12"
+      }
+    ]
+  },
+  "JMF241116025": {
+    "billId": "JMF241116025",
+    "date": "2024-11-30",
+    "name": "Mr.dwd",
+    "items": 1,
+    "mode": "Cash",
+    "notes": "3233",
+    "bill": 759,
+    "due": 23,
+    "status": "paid",
+    "generated": "16 Nov 2024 22:43",
+    "description": [
+      {
+        "item": "ew2",
+        "quantity": "23",
+        "price": "32",
+        "total": "736"
+      }
+    ]
+  },
+  "JMF241116026": {
+    "billId": "JMF241116026",
+    "date": "2024-11-21",
+    "name": "Mr.Kiruthik",
+    "items": 3,
+    "mode": "Card",
+    "notes": "",
+    "bill": 4000,
+    "due": 0,
+    "status": "paid",
+    "generated": "16 Nov 2024 23:05",
+    "description": [
+      {
+        "item": "Nighty",
+        "quantity": "4",
+        "price": "430",
+        "total": "1720"
+      },
+      {
+        "item": "Saree",
+        "quantity": "3",
+        "price": "320",
+        "total": "960"
+      },
+      {
+        "item": "Shirt",
+        "quantity": "4",
+        "price": "330",
+        "total": "1320"
+      }
+    ]
+  },
+  "JMF241116027": {
+    "billId": "JMF241116027",
+    "date": "2024-11-14",
+    "name": "Mr.Mohanana",
+    "items": 2,
+    "mode": "Cash",
+    "notes": "",
+    "bill": 59544,
+    "due": 9984,
+    "status": "paid",
+    "generated": "16 Nov 2024 23:14",
+    "description": [
+      {
+        "item": "a",
+        "quantity": "34",
+        "price": "399",
+        "total": "13566"
+      },
+      {
+        "item": "jersey",
+        "quantity": "6",
+        "price": "5999",
+        "total": "35994"
+      }
+    ]
+  },
+  "JMF241116028": {
+    "billId": "JMF241116028",
+    "date": "2024-11-21",
+    "name": "Mr.ANul Mele",
+    "items": 2,
+    "mode": "Cash",
+    "notes": "",
+    "bill": 438843,
+    "due": 9934,
+    "status": "paid",
+    "generated": "16 Nov 2024 23:16",
+    "description": [
+      {
+        "item": "sa",
+        "quantity": "32",
+        "price": "499",
+        "total": "15968"
+      },
+      {
+        "item": "pant",
+        "quantity": "6999",
+        "price": "59",
+        "total": "412941"
+      }
+    ]
+  },
+  "JMF241116029": {
+    "billId": "JMF241116029",
+    "date": "2024-11-21",
+    "name": "Mr.Maniko",
+    "items": 3,
+    "mode": "Cash",
+    "notes": "",
+    "bill": 12980,
+    "due": 1299,
+    "status": "paid",
+    "generated": "16 Nov 2024 23:18",
+    "description": [
+      {
+        "item": "shirt",
+        "quantity": "8",
+        "price": "699",
+        "total": "5592"
+      },
+      {
+        "item": "pant",
+        "quantity": "3",
+        "price": "1499",
+        "total": "4497"
+      },
+      {
+        "item": "jatti",
+        "quantity": "8",
+        "price": "199",
+        "total": "1592"
+      }
+    ]
+  },
+  "JMF241116030": {
+    "billId": "JMF241116030",
+    "date": "2024-11-28",
+    "name": "Mr.Mohan",
+    "items": 3,
+    "mode": "Card",
+    "notes": "",
+    "bill": 39678,
+    "due": 9840,
+    "status": "paid",
+    "generated": "16 Nov 2024 23:21",
+    "description": [
+      {
+        "item": "kelp",
+        "quantity": "2",
+        "price": "399",
+        "total": "798"
+      },
+      {
+        "item": "phone",
+        "quantity": "3",
+        "price": "23",
+        "total": "69"
+      },
+      {
+        "item": "laps",
+        "quantity": "999",
+        "price": "29",
+        "total": "28971"
+      }
+    ]
+  },
+  "JMF241116031": {
+    "billId": "JMF241116031",
+    "date": "2024-11-18",
+    "name": "Mr.ded",
+    "items": 1,
+    "mode": "Cash",
+    "notes": "",
+    "bill": 54,
+    "due": 42,
+    "status": "paid",
+    "generated": "16 Nov 2024 23:22",
+    "description": [
+      {
+        "item": "e3",
+        "quantity": "3",
+        "price": "4",
+        "total": "12"
+      }
+    ]
+  },
+  "JMF241116032": {
+    "billId": "JMF241116032",
+    "date": "2024-11-21",
+    "name": "Mrs.Stalin",
+    "items": 2,
+    "mode": "Cash",
+    "notes": "",
+    "bill": 4241,
+    "due": 500,
+    "status": "paid",
+    "generated": "16 Nov 2024 23:26",
+    "description": [
+      {
+        "item": "Saree",
+        "quantity": "4",
+        "price": "499",
+        "total": "1996"
+      },
+      {
+        "item": "Shirt",
+        "quantity": "5",
+        "price": "349",
+        "total": "1745"
+      }
+    ]
+  }
+}
