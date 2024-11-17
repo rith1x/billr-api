@@ -33,7 +33,7 @@ function generateId() {
         parsedMetaData.lastDate = now.getDate()
         parsedMetaData.lastMon = now.getMonth() + 1
         parsedMetaData.lastYear = parseInt(now.getFullYear()) % 100
-        parsedMetaData.count = 0
+        parsedMetaData.count = 1
     } else {
         parsedMetaData.count += 1;
     }
